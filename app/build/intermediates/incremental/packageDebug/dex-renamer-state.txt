@@ -1,0 +1,7 @@
+#Wed Nov 23 09:24:53 WIB 2016
+base.0=/home/dafidzeko/Documents/Logging/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e12456700a00da58309b6c4c245e7d4671b5e1c7
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/dafidzeko/Documents/Logging/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_618a09641237b1217441eb0d6022e080007fc4fa/classes.dex
+base.1=/home/dafidzeko/Documents/Logging/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_618a09641237b1217441eb0d6022e080007fc4fa
+file.0=/home/dafidzeko/Documents/Logging/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e12456700a00da58309b6c4c245e7d4671b5e1c7/classes.dex
